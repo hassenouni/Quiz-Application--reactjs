@@ -1,0 +1,154 @@
+[
+    {
+        
+        "type": "Computer science",
+        "question": "What is the full meaning of A.I",
+        "optionA": "Artificial Intelligence",
+        "optionB": "Artificial Instruction",
+        "optionC": "Automated Instruction",
+        "optionD": "Automated Intelligence",
+        "answer": "Artificial Intelligence"
+    },
+    {
+        
+        "type": "Computer science",
+        "question": "Google was founded in what year?",
+        "optionA": "1997",
+        "optionB": "1998",
+        "optionC": "1999",
+        "optionD": "2000",
+        "answer": "1998"
+        
+    },
+    {
+        
+        "type": "Computer science",
+        "question": "Documents that can only be seen but not touched are known as?",
+        "optionA": "Hardware",
+        "optionB": "Software",
+        "optionC": "Spyware",
+        "optionD": "Scareware",
+        "answer": "Software"
+     
+    },
+    {
+        
+        "type": "Computer science",
+        "question": "An example of semi conductor memory device is",
+        "optionA": "USB Flash Drive",
+        "optionB": "Floppy Disc",
+        "optionC": "Compact Disc",
+        "optionD": "Tape",
+        "answer": "USB Flash Drive"
+    },
+    {
+        
+        "type": "Computer science",
+        "question": "Facebook was created in what year",
+        "optionA": "2002",
+        "optionB": "2003",
+        "optionC": "2004",
+        "optionD": "2005",
+        "answer": "2004"
+    },
+    {
+        
+        "type": "Computer science",
+        "question": "A family of computer networking technologies commonly used is in LAN, MAN and WAN is",
+        "optionA": "Internet",
+        "optionB": "Ethernet",
+        "optionC": "Sharenet",
+        "optionD": "Intranet",
+        "answer": "Ethernet"
+    },
+    {
+        
+        "type": "Computer science",
+        "question": "Java was designed by?",
+        "optionA": "Richard Benson",
+        "optionB": "James Gosling",
+        "optionC": "Guido van Rossum",
+        "optionD": "Dennis Ritchie",
+        "answer": "James Gosling"
+    },
+    {
+      
+        "type": "Computer science",
+        "question": "Programs that are meant to kill other virus are known as",
+        "optionA": "Anti-virus",
+        "optionB": "KIller virus",
+        "optionC": "Virus",
+        "optionD": "Malware",
+        "answer": "Anti-virus"
+    },
+    {
+       
+        "type": "Computer science",
+        "question": "Which of the following is not an output device?",
+        "optionA": "Mouse",
+        "optionB": "Monitor",
+        "optionC": "Keyboard",
+        "optionD": "Printer",
+        "answer": "Mouse"
+    },
+    {
+        
+        "type": "Computer science",
+        "question": "Convert 3 to base 2",
+        "optionA": "100",
+        "optionB": "11",
+        "optionC": "10",
+        "optionD": "111",
+        "answer": "11"
+    },
+    {
+        
+        "type": "Computer science",
+        "question": "Who is often refered to the father of computers?",
+        "optionA": "Blaize Pascal",
+        "optionB": "John Napier",
+        "optionC": "James Gosling",
+        "optionD": "Charles Babage",
+        "answer": "Charles Babage"
+    },
+    {
+        
+        "type": "Computer science",
+        "question": "Trial test of a computer or software or app before the commercial launch is called",
+        "optionA": "Test Run",
+        "optionB": "Beta Test",
+        "optionC": "Dry Running",
+        "optionD": "Product checking",
+        "answer": "Beta Test"
+    },
+    {
+       
+        "type": "Computer science",
+        "question": "A family of computer networking technologies commonly used is in LAN, MAN and WAN is",
+        "optionA": "Internet",
+        "optionB": "Ethernet",
+        "optionC": "Sharenet",
+        "optionD": "Intranet",
+        "answer": "Anti-virus"
+    },
+    {
+       
+        "type": "Computer science",
+        "question": "The second generation computers used?",
+        "optionA": "Vacum tubes",
+        "optionB": "Transistors",
+        "optionC": "Integrated circuts",
+        "optionD": "Batteries",
+        "answer": "Transistors"
+    },
+    {
+        
+        "type": "Computer science",
+        "question": "What does RAM mean?",
+        "optionA": "Read Access Memory",
+        "optionB": "Random Asset Memory",
+        "optionC": "Random Access Memory",
+        "optionD": "Read Accept Memory",
+        "answer": "Random Access Memory"
+    }
+]
